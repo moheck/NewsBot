@@ -1,0 +1,6 @@
+{
+"name": "BuzzBot",
+"version": "1.0.0",
+"description": "Bot for headlines from Buzzfeed and other news sources.",
+"dependencies": { }
+}
